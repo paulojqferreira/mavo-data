@@ -70,5 +70,22 @@ edX Instance with a edx devstack inside :-)
 * National Platforms - Governos nacionaos que estão a adotar a plataform edX está a crescer
 * Q&A : Analytic: Identificar no comportamento do cliente durante os primeiros minutos, dias e siemanas (7 dias) para prever oa continuidade no curso. Os primeiros dados indicam uma forte correlaçes entre o comportamento nos primeiros 2 dias em 7 na conclusão do curso (suceaso)
 * 1/3 do trafego da edX tem origem em mobile ou tablet
-
 ... 11M Open edX learners
+
+## Frontend Session
+
+* Edx corre sobre Django e Meko
+* http://ux-edx.org
+* Jquery, backbone, sass, coffescript
+* Deliver an optimal experience for users
+* Develop with maintenance in mind
+* Make it easy and enjoyablefor developers  and users
+* Conscious Decoupling approach: separation of concers: data, logic and appearence
+* ES2015, react, bootstrap, webpack (Frontend asset managment)
+* edX vai incluir React JS no frontend
+* Testes sobre Component Library: Enviroment agnostic chunks of UI with React
+... Consistent markup
+... Resolve problemas de acessibilidade
+
+
+
