@@ -6,7 +6,7 @@ https://openedxcon2017.hastexo.com/
 
 edX Instance with a edx devstack inside :-)
 
-## Day 2 - Open KeyNote - EDX CEO Anant Agarwai
+## Day 2 - Open KeyNote edX - CEO Anant Agarwai
 
 * Em 2030 metade dos atuais empregos iro desaparecer
 * Em 2025 75% da força de trabalho será constituida por millenials
