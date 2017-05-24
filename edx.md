@@ -38,7 +38,7 @@ edX Instance with a edx devstack inside :-)
 
 ## Day 2 - State of Open edX
 
-* Joel Barciauskas, joel@edx.org . Engineering Manager, edX
+
 * Examity - Better test integrity
 * eduStack
 * **Mark Haseltine** CTO, edX mark@edx.org
@@ -54,6 +54,18 @@ edX Instance with a edx devstack inside :-)
 * Identificação de roadmap e novas funcionalidades
 * Quase todos os cursos esto agora disponíveis em Mobile (App)
 * Focu das futuras versões de edX (Hawthorn & beyond): Payment and program bundling; Learner Goals and Progress; Course Dates and Lifecycle; Identity and Community
-*
-*
-
+* **Shelby Stack** Learner Team  - shelby@edx.org
+... Pontos importantes: Grades, Integrity and Authoring
+... Assessments and Insights
+* Futuro: Improve Video Work; Discussions; Learner Engagment (target learner communications and Dynamic Schedule); Accessibility
+* **Joel Barciauskas** - joel@edx.org . Engineering Manager, edX
+* Open edx Proposals: https://open-edx-proposals.readthedocs.io
+... React front-end and Boostrap 4
+* Community by the numbers
+... 800 sites
+... 5000 courses
+... 11M on edX learners
+... 11M Open edX learners
+* Class Central - 9 nos 39 providers são baseados em edX
+* National Platforms - Governos nacionaos que estão a adotar a plataform edX está a crescer
+* 
