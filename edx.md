@@ -87,7 +87,9 @@ edX Instance with a edx devstack inside :-)
 ... Consistent markup
 ... Resolve problemas de acessibilidade
 
-## Breakout Session 2 - Digital Learning 2.0 - Learning that stiks
+## Breakout Session 2 - Digital Learning 2.0 - Learning that sticks
+
+
 
 
 
