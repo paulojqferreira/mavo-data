@@ -72,7 +72,7 @@ edX Instance with a edx devstack inside :-)
 * 1/3 do trafego da edX tem origem em mobile ou tablet
 ... 11M Open edX learners
 
-## Frontend Session
+## Breakout Session 1 - The future of front-end development in Open edX
 
 * Edx corre sobre Django e Meko
 * http://ux-edx.org
@@ -86,6 +86,8 @@ edX Instance with a edx devstack inside :-)
 * Testes sobre Component Library: Enviroment agnostic chunks of UI with React
 ... Consistent markup
 ... Resolve problemas de acessibilidade
+
+## Breakout Session 2 - Digital Learning 2.0 - Learning that stiks
 
 
 
