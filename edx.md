@@ -22,8 +22,12 @@ edX Instance with a edx devstack inside :-)
 
 ### Learning for the 21st century
 
+* EDX estruturou a sua formação em dois eixos: Micromaster e Professional Learning
 * Skills- focused, Valuable Carrer credentials, Fast, flexible, variety of levels (professional learning)
 * Faster, career-focused, flexible, affordable, pathway to Credit (MicroMasters)
 * Porque é que as universidades excluem pessoas? Porque não incluir todos os que querem aprender? 
 * O sistema de ensino atual está baseado no número de pessoas que exclui
-* 
+* A plataform EDX caminha para ser um sistema integro e seguro no contexto do ensino online
+* Funcionalidades: Timed exams, Control exam visibility, Randomized problems and numerics, virtual proctored exam, cohorts and differenciated content
+* A comunidade está a contribuir ativamente no desenvolvimento de novas funcionalidades
+*
