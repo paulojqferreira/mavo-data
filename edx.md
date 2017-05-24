@@ -122,6 +122,5 @@ edX Instance with a edx devstack inside :-)
 * Hao can we more efectively cater to a large, diverse population?
 ... Engagment and competency
 * Scope of adaptivity: Dinamic Problem sequences base on student performance
-* 
 
 
