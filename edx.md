@@ -105,7 +105,7 @@ edX Instance with a edx devstack inside :-)
 * Drop the concept
 * Use comparasions: team A did this, team B did that. Is more easy to understand.
 * 
-### 7 topics for 
+### 7 topics for efective learning
 
 1. Super clear learning Objectives: start with and END
 2. Treat executives as executives
@@ -115,7 +115,13 @@ edX Instance with a edx devstack inside :-)
 6. Relevance
 7. Feedback loop
 
-By the end of each block the learner shoud see one way of aplying what he haved learn
+*By the end of each block the learner shoud see one way of aplying what he haved learn*
 
+## Breakout Session 3 - Adaptivity in Moocs
+
+* Hao can we more efectively cater to a large, diverse population?
+... Engagment and competency
+* Scope of adaptivity: Dinamic Problem sequences base on student performance
+* 
 
 
