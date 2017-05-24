@@ -87,9 +87,35 @@ edX Instance with a edx devstack inside :-)
 ... Consistent markup
 ... Resolve problemas de acessibilidade
 
-## Breakout Session 2 - Digital Learning 2.0 - Learning that sticks
+## Breakout Session 2 - Digital Learning 2.0: Learning that sticks (IMD)
 
+* O que é Digital Learning
+* Corporate Learning networks
+* Learning => Interaction = > 
+* Learning Application is the key.
+* Email is my biggest e-learning competitor
+* Attention spans
+* Effective storytelling - Tell a story, a true story => emotional connection (if I were there??) 
+* Visual Variety
+* Eye contact
+* Theory in context
+* Targeted text to keep focus
+* Who are you talking too? Tals to people you usually don't
+* Horizontal cohosr interaction
+* Drop the concept
+* Use comparasions: team A did this, team B did that. Is more easy to understand.
+* 
+### 7 topics for 
 
+1. Super clear learning Objectives: start with and END
+2. Treat executives as executives
+3. Change the channel - Use the right channel to the audience
+4. Respect the holy trinity of virtual learning
+5. Content is fresh and easy to digest
+6. Relevance
+7. Feedback loop
+
+By the end of each block the learner shoud see one way of aplying what he haved learn
 
 
 
