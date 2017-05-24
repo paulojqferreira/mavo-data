@@ -22,4 +22,8 @@ edX Instance with a edx devstack inside :-)
 
 ### Learning for the 21st century
 
-*
+* Skills- focused, Valuable Carrer credentials, Fast, flexible, variety of levels (professional learning)
+* Faster, career-focused, flexible, affordable, pathway to Credit (MicroMasters)
+* Porque é que as universidades excluem pessoas? Porque não incluir todos os que querem aprender? 
+* O sistema de ensino atual está baseado no número de pessoas que exclui
+* 
