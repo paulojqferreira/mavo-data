@@ -115,7 +115,7 @@ edX Instance with a edx devstack inside :-)
 6. Relevance
 7. Feedback loop
 
-*By the end of each block the learner shoud see one way of aplying what he haved learn*
+*By the end of each block the learner shoud see one way of aplying what he have learned*
 
 ## Breakout Session 3 - Adaptivity in Moocs
 
