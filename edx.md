@@ -13,3 +13,9 @@ edX Instance with a edx devstack inside :-)
 * Millenials estão constantemente ligados
 * M querem aprednder por objectivos e querem uma experiência de educação personalizada.
 * A educação é cada vez mais uma processo continuo
+
+### Agora as boas noticias
+
+* 43% admitem que um certificado os ajudou a ter um avanço na sua carreira
+* EDC e a opne edx comunidade juntas têm 22 milhões de utilizadores (11+11)
+* 
