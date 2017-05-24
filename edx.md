@@ -123,4 +123,18 @@ edX Instance with a edx devstack inside :-)
 ... Engagment and competency
 * Scope of adaptivity: Dinamic Problem sequences base on student performance
 
+## Breakout Session 3 - Creating Synergies among in Higher and Continuing Education
+
+* Key Takeways
+... Spliting the couses into small, independent units
+... Colaborating
+... Flip classroom (?)
+
+### Project-based learning 
+
+* Digital transformation to online university- how?
+
+## Keynote 3 - Kiron
+
+
 
