@@ -52,5 +52,8 @@ edX Instance with a edx devstack inside :-)
 ... Ponto 2 Focus: Enhance, Invest, Experiment
 * **Marco Morales** - Learner Team marco@edx.org
 * Identificação de roadmap e novas funcionalidades
-* 
+* Quase todos os cursos esto agora disponíveis em Mobile (App)
+* Focu das futuras versões de edX (Hawthorn & beyond): Payment and program bundling; Learner Goals and Progress; Course Dates and Lifecycle; Identity and Community
+*
+*
 
