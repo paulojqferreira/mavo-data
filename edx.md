@@ -68,4 +68,7 @@ edX Instance with a edx devstack inside :-)
 ... 11M Open edX learners
 * Class Central - 9 nos 39 providers são baseados em edX
 * National Platforms - Governos nacionaos que estão a adotar a plataform edX está a crescer
-* 
+* Q&A : Analytic: Identificar no comportamento do cliente durante os primeiros minutos, dias e siemanas (7 dias) para prever oa continuidade no curso. Os primeiros dados indicam uma forte correlaçes entre o comportamento nos primeiros 2 dias em 7 na conclusão do curso (suceaso)
+* 1/3 do trafego da edX tem origem em mobile ou tablet
+
+... 11M Open edX learners
