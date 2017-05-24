@@ -100,7 +100,7 @@ edX Instance with a edx devstack inside :-)
 * Eye contact
 * Theory in context
 * Targeted text to keep focus
-* Who are you talking too? Tals to people you usually don't
+* Who are you talking too? Tals to people who you usually don't
 * Horizontal cohosr interaction
 * Drop the concept
 * Use comparasions: team A did this, team B did that. Is more easy to understand.
