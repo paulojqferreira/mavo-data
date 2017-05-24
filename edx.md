@@ -6,7 +6,7 @@ https://openedxcon2017.hastexo.com/
 
 edX Instance with a edx devstack inside :-)
 
-## Day 2 - Open KeyNote - EDX CEO
+## Day 2 - Open KeyNote - EDX CEO Anant Agarwai
 
 * Em 2030 metade dos atuais empregos iro desaparecer
 * Em 2025 75% da força de trabalho será constituida por millenials
@@ -32,4 +32,8 @@ edX Instance with a edx devstack inside :-)
 * A comunidade está a contribuir ativamente no desenvolvimento de novas funcionalidades
 * A acessibilidade é uma componente muito importante na plataform EDX. 
 * COmo é feitoo controle de quailidade dos cursos na plataforma EDX: é feito através de um pequeno grupos de parceiros. A edx tem documentos orientadores e boas práticas - Existe una *Edx mooc development checklist*. 
+* In EDX open admission means open. Period.
+* Peer Learning é o XBlock que permite que um trabalho seja revisto por pares online de modo a que o autro possa fazer melhorias sobre o mesmo.
+* Dada a oferta de curos, a escolha é cada vez mais dicicil para o estudante escolher. Como  que a EDX lida com este assunto?. It's not all about content, but sometimes is about who's offering the course
 * 
+
