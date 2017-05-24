@@ -38,5 +38,13 @@ edX Instance with a edx devstack inside :-)
 
 ## Day 2 - State of Open edX
 
-
+* Joel Barciauskas, joel@edx.org . Engineering Manager, edX
+* Examity - Better test integrity
+* eduStack
+* Mark Haseltine CTO, edX mark@edx.org
+* edX está organizada em torno dos seus clientes: Learner, Educator e Business
+* DEvOps, Tools and Platform - Como estão organizadas as equipas
+* Ian Kennedy, VP product, edX - ikennedy@edx.org
+* Goal / vision: Create the world's leading learning destination site and platform
+* 
 
