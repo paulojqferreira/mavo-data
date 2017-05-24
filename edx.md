@@ -18,4 +18,8 @@ edX Instance with a edx devstack inside :-)
 
 * 43% admitem que um certificado os ajudou a ter um avanço na sua carreira
 * EDC e a opne edx comunidade juntas têm 22 milhões de utilizadores (11+11)
-* 
+* Um estudo do MIT revela que o modelo Active Learning (edx) em comparação com outros modelos (video e discussão) tem uma Post Test Accuracy superior
+
+### Learning for the 21st century
+
+*
