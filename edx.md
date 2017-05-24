@@ -35,5 +35,8 @@ edX Instance with a edx devstack inside :-)
 * In EDX open admission means open. Period.
 * Peer Learning é o XBlock que permite que um trabalho seja revisto por pares online de modo a que o autro possa fazer melhorias sobre o mesmo.
 * Dada a oferta de curos, a escolha é cada vez mais dicicil para o estudante escolher. Como  que a EDX lida com este assunto?. It's not all about content, but sometimes is about who's offering the course
-* 
+
+## Day 2 - State of Open edX
+
+
 
