@@ -41,15 +41,16 @@ edX Instance with a edx devstack inside :-)
 * Joel Barciauskas, joel@edx.org . Engineering Manager, edX
 * Examity - Better test integrity
 * eduStack
-* Mark Haseltine CTO, edX mark@edx.org
+* **Mark Haseltine** CTO, edX mark@edx.org
 * edX está organizada em torno dos seus clientes: Learner, Educator e Business
 * DEvOps, Tools and Platform - Como estão organizadas as equipas
-* Ian Kennedy, VP product, edX - ikennedy@edx.org
+* **Ian Kennedy**, VP product, edX - ikennedy@edx.org
 * Product Vision: Create the world's leading learning destination site and platform
 * Colocar o focu no que  importante e identificar o que não  importante
 * O cliente (the learner) é o mais importante (focus on the important stuff)
 ... Ponto 1 Balance: Drives our key metrics, Customer asks, Delighters, Investments
 ... Ponto 2 Focus: Enhance, Invest, Experiment
-* Marco Morales - Learner Team marco@edx.org
+* **Marco Morales** - Learner Team marco@edx.org
+* Identificação de roadmap e novas funcionalidades
 * 
 
