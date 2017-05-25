@@ -149,7 +149,7 @@ Distance learning in Europe reach moren than 3 million students across 25 countr
 
 ## Day 3 - Open KeyNote edX - Learn to Lose - McKinsey GLobal
 
-(e-learning for kids: foundation)
+(e-learning for kids: foundation: http://www.elearningforkids.org)
 * Attention curve of students in lectures will decay along the lesson time. Challenge is to keep attention focus
 * Disruption ahead of us: The fourth industrial revolution with a new generation of disruptive technologies.
 * All this new tech have a profound impact in aour lifes
@@ -161,7 +161,7 @@ Distance learning in Europe reach moren than 3 million students across 25 countr
 * BOOK: The second Machine Age: MIT press
 * Áreas de maior impacto da automatização de empregos
 ...Telmarketeers
-Auditores ec onsultores
+Auditores e consultores
 Retail
 .... (ver imagem)
 * 60% of all the ocupation could see 30% or more of their activities automated (2016) McKinsey Report - **SCARY**
@@ -186,6 +186,8 @@ OVERAL: impact on business and society and a sense of personal meaning fulfillme
 ... Mindset 4: build your personal brand & network
 ... Mindset 5 Own your development journey
 ... Mindset 6: **Do what you love**
+* IKIGAI: IKIGAI is the reason you get up every morning :-). 
+* 
 
 
 
