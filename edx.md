@@ -179,9 +179,9 @@ Retail
 * **Individuals become lifelong learners**
 * Mindset of lifelong learners: Free assessmet - www.reachyourpotential.org
 * Age and mental complexity
-.. Mindset 1 : focus on growth, a growth mindset -  People can develop their IQ along their life
-.. Mindset2 Become a serial Master
-.. Mindset 3: do thing that you never have done before: get out of the confort zone to develop new skills
+..1. Mindset 1 : focus on growth, a growth mindset -  People can develop their IQ along their life
+..2. Mindset2 Become a serial Master
+..3. Mindset 3: do thing that you never have done before: get out of the confort zone to develop new skills
 OVERAL: impact on business and society and a sense of personal meaning fulfillment
 .. Mindset 4: build your personal brand & network
 .. Mindset 5 Own your development journey
