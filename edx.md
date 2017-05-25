@@ -273,4 +273,4 @@ Comprehensive Theming lets you customize the appearance of your Open edX install
 
 #### RESUMO
 
-Aparentemente as possibilidade de construir uma experiencia altamente customizada no edX LMS é ainda muito limitada. Avaliar com muita atenção os prós e contras.
+Aparentemente as possibilidade de construir uma experiencia altamente customizada no edX LMS é ainda muito limitada. Avaliar com muita atenção os prós e contras. 
