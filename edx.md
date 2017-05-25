@@ -187,7 +187,12 @@ OVERAL: impact on business and society and a sense of personal meaning fulfillme
 ... Mindset 5 Own your development journey
 ... Mindset 6: **Do what you love**
 * IKIGAI: IKIGAI is the reason you get up every morning :-). 
-* 
+
+## Day 3: Breakout session 1
+
+** http://mva.microsft.com
+** Microsoft Data Science Program -  Serie of Moocs
+** Nice visualizations
 
 
 
