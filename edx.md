@@ -136,6 +136,40 @@ edX Instance with a edx devstack inside :-)
 
 ## Keynote 3 - Kiron
 
+URL: https://kiron.ngo/
+Kiron vision: A world in which everyone has the equal chance to access and succeed in higher education.
+Mission: Kiron enables access to higher education and successful learning for refugees through digital solutions.
+
+
+## Day 3 - Open KeyNote edX - Industry presentation: Examity
+
+URL: http://examity.com/
+Distance learning in Europe reach moren than 3 million students across 25 countries.
+
+
+## Day 3 - Open KeyNote edX - Learn to Loan - McKinsey GLobal
+
+(e-learning for kids: foundation)
+* Attention curve of students in lectures will decay along the lesson time. Challenge is to keep attention focus
+* Disruption ahead of us: The fourth industrial revolution with a new generation of disruptive technologies.
+* All this new tech have a profound impact in aour lifes
+* O iPhone faz 10 anos este ano. Apneas 10 anos
+* 3D printing: AI and mobile internet are the main changers
+* Amazon is delivering packages in 30 minutos by drone
+* UBER
+* O tempo de vida das principais empresas tem vindo a diminuir ao longo do tempo e é esperado que em 2027 o tempo médio de vida de um aempresas seja de ...
+* BOOK: The second Machine Age: MIT press
+* Áreas de maior impacto da automatização de empregos
+...Telmarketeers
+Auditores ec onsultores
+Retail
+.... (ver imagem)
+* 60% of all the ocupation could see 30% or more of their activities automated (2016) McKinsey Report - **SCARY**
+*
+
+
+
+
 
 
 
