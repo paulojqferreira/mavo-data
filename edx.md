@@ -245,8 +245,7 @@ Models of using the platform
 * When setting deadlines give learners plenty of time to complete peer reviews
 * Try not to put peer-gradded ORA in a self-peaced course
 * Hint and Feedback: Enable learner success; Provide instant feedback...
-* Drag'n Drop v2
-
+* Drag'n Drop v2 (a testar)
 
 []
 
