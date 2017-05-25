@@ -188,11 +188,10 @@ Retail
 * Mindset 6: **Do what you love**
 * **IKIGAI: IKIGAI is the reason you get up every morning** :-). 
 
-Article: Learning at the speed of business
 [Article: Learning at the speed of business](http://www.mckinsey.com/business-functions/organization/our-insights/learning-at-the-speed-of-business)
 
 
-## Day 3: Breakout session 1
+## Day 3: Breakout session 1 - Microsft Open edX for Corporate Learning
 
 ** http://mva.microsft.com
 ** Microsoft Data Science Program -  Serie of Moocs
@@ -201,7 +200,9 @@ Article: Learning at the speed of business
 
 ## Day 3: Breakout session 2 - Open University approach to edX
 
-* 
+* One size doesn't fit all
+* Happy Authors, Happy Learners
+*  
 
 
 
