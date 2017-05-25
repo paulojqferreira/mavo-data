@@ -202,9 +202,16 @@ Retail
 
 * One size doesn't fit all
 * Happy Authors, Happy Learners
-*  
 
+## Day 3: Breakout session 3 - Bloom Taxonomy - TeachFirst / Proversity
 
+* No childs educational success should be determined by how much their parents earn. Period
+* Transformative Change is needed and education is a major factor of change in our societies
+* New learning strategy: problem based 
+* General Model = Knowing => remembering=>Understanding=>Applying=>Analysing=>Evaluating=>Creating = Optimised Learning
+* Teach First Program => **Open edX** <= Education Equity
+* Conselhos: Define your team / Communicate your Rationale / Clear and consistent Comms / Strategic Aligment
+*
 
 
 
