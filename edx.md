@@ -1,4 +1,4 @@
-# EDX conference notes
+# OpenedX 2017 conference notes
 
 ## Day 1 - Session 2 - OpenDevStack lab
 
@@ -241,7 +241,12 @@ Models of using the platform
 * Timed Exams
 * Prerequisit Content
 * Open Response Assessment (ORA): SelfAssessment; Peer Assessment and Staff Assessment
-* 
+* Position peer reviews near the start of a course
+* When setting deadlines give learners plenty of time to complete peer reviews
+* Try not to put peer-gradded ORA in a self-peaced course
+* Hint and Feedback: Enable learner success; Provide instant feedback...
+* Drag'n Drop v2
+
 
 []
 
