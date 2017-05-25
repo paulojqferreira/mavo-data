@@ -233,6 +233,16 @@ Models of using the platform
 * Future: Learner messaging learners; Foruns; electives; student records
 * Student Dashboard for edX (xBlock) is available as open source 
 
+
+## Day 3: Breakout session 5 - What's new in Studio (Part1)
+
+* Content Libraries are used for assessments respository: (1)Pool problems of similiar topic or level in a content library (2)add randomized blocks to the course
+* Use one content library per quiz (detalhar este assunto)
+* Timed Exams
+* Prerequisit Content
+* Open Response Assessment (ORA): SelfAssessment; Peer Assessment and Staff Assessment
+* 
+
 []
 
 
