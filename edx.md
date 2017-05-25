@@ -182,17 +182,29 @@ Retail
 * Mindset 1 : focus on growth, a growth mindset -  People can develop their IQ along their life
 * Mindset2 Become a serial Master
 * Mindset 3: do thing that you never have done before: get out of the confort zone to develop new skills 
-..* OVERAL: impact on business and society and a sense of personal meaning fulfillment
+* OVERAL: impact on business and society and a sense of personal meaning fulfillment
 * Mindset 4: build your personal brand & network
 * Mindset 5 Own your development journey
 * Mindset 6: **Do what you love**
 * **IKIGAI: IKIGAI is the reason you get up every morning** :-). 
+
+Article: Learning at the speed of business
+[Article: Learning at the speed of business](http://www.mckinsey.com/business-functions/organization/our-insights/learning-at-the-speed-of-business)
+
 
 ## Day 3: Breakout session 1
 
 ** http://mva.microsft.com
 ** Microsoft Data Science Program -  Serie of Moocs
 ** Nice visualizations
+* 30 intructors in the Mooc Team (?): Orçamento 85k USD per course
+
+## Day 3: Breakout session 2 - Open University approach to edX
+
+* 
+
+
+
 
 
 
