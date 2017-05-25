@@ -231,7 +231,7 @@ Models of using the platform
 * Experiments do improve micro-master: Student dashboard; Enhanced profiles; personalized pricing; in-person proctored exams;comprehensive exam
 * github.com/mitodl/micromasters - Enable Technologies
 * Future: Learner messaging learners; Foruns; electives; student records
-
+* Student Dashboard for edX (xBlock) is available as open source 
 
 []
 
