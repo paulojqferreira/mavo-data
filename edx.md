@@ -203,16 +203,37 @@ Retail
 * One size doesn't fit all
 * Happy Authors, Happy Learners
 
-## Day 3: Breakout session 3 - Bloom Taxonomy - TeachFirst / ProVersity
+## Day 3: Breakout session 3 - Bloom Taxonomy - [TeachFirst](https://www.teachfirst.org.uk/) / ProVersity
 * No childs educational success should be determined by how much their parents earn. Period
 * Transformative Change is needed and education is a major factor of change in our societies
 * New learning strategy: problem based 
 * [Bloom Taxonomy:](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) General Model = Knowing => remembering=>Understanding=>Applying=>Analysing=>Evaluating=>Creating = Optimised Learning
 * Teach First Program => **Open edX** <= Education Equity
 * Conselhos: Define your team / Communicate your Rationale / Clear and consistent Comms / Strategic Aligment
-* 
+
+## Day 3: Breakout session 3 - Extended Open edX to support blended Learning at MIT
+
+* Office of Digital Learning MIT:  https://odl.mit.edu/
+* Drive innovation in digital learning, with strong emphasis on blended learning at MIT
+* Why Moocs?
+.. Improve MIT student learning and experience
+.. Outreach to the world
+
+Mooc are aleiged with residential courses and curriculum. All mooc content is teh same on campus.
+Models of using the platform
+.. Using Mooc allow to transform classes in problem solved activities since the content is on Mooc.
+.. Get the conversations with the students: how to apply this knowledge? 
+.. Students spend time solving problems
+* All resources in on place!
+* Student Feedback
+
+* Micro Masters on MIT
+* Experiments do improve micro-master: Student dashboard; Enhanced profiles; personalized pricing; in-person proctored exams;comprehensive exam
+* github.com/mitodl/micromasters - Enable Technologies
+* Future: Learner messaging learners; Foruns; electives; student records
 
 
+[]
 
 
 
