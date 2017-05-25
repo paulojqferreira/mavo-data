@@ -179,13 +179,13 @@ Retail
 * **Individuals become lifelong learners**
 * Mindset of lifelong learners: Free assessmet - www.reachyourpotential.org
 * Age and mental complexity
-... Mindset 1 : focus on growth, a growth mindset -  People can develop their IQ along their life
-... Mindset2 Become a serial Master
+.. Mindset 1 : focus on growth, a growth mindset -  People can develop their IQ along their life
+.. Mindset2 Become a serial Master
 .. Mindset 3: do thing that you never have done before: get out of the confort zone to develop new skills
 OVERAL: impact on business and society and a sense of personal meaning fulfillment
-... Mindset 4: build your personal brand & network
-... Mindset 5 Own your development journey
-... Mindset 6: **Do what you love**
+.. Mindset 4: build your personal brand & network
+.. Mindset 5 Own your development journey
+.. Mindset 6: **Do what you love**
 * IKIGAI: IKIGAI is the reason you get up every morning :-). 
 
 ## Day 3: Breakout session 1
