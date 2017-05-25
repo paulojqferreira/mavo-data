@@ -155,9 +155,9 @@ Distance learning in Europe reach moren than 3 million students across 25 countr
 * All this new tech have a profound impact in aour lifes
 * O iPhone faz 10 anos este ano. Apneas 10 anos
 * 3D printing: AI and mobile internet are the main changers
-* Amazon is delivering packages in 30 minutos by drone
+* Amazon is delivering packages in 30 minuts by drone
 * UBER
-* O tempo de vida das principais empresas tem vindo a diminuir ao longo do tempo e é esperado que em 2027 o tempo médio de vida de um aempresas seja de ...
+* O tempo de vida das principais empresas tem vindo a diminuir ao longo do tempo e é esperado que em 2027 o tempo médio de vida de um aempresas seja em media de 13 anos, quando em 1935 a esperança média de vida era de 90 anos
 * BOOK: The second Machine Age: MIT press
 * Áreas de maior impacto da automatização de empregos
 ...Telmarketeers
@@ -165,7 +165,7 @@ Auditores e consultores
 Retail
 .... (ver imagem)
 * 60% of all the ocupation could see 30% or more of their activities automated (2016) McKinsey Report - **SCARY**
-* Importent Competency is CREATIVITY: Companies need people that inovate, that think about new business model, new produts, new solutions, new design: Eduate people in ideazion. Digital literacy
+* Important Competency is CREATIVITY: Companies need people that inovate, that think about new business model, new produts, new solutions, new design: Eduate people in ideazion. Digital literacy
 ... 44% of people in EU aged 16-74 had insufficient digital literacy competencies
 * COmo é que trazemos as pessoas dos empregos atuais para os novos em termos de competencias???
 * A CALLTO ACTION: LEARN OR LOSE
@@ -175,7 +175,7 @@ Retail
 ... PERSONALIZED LEARNING: SELF DIRECTED, RELEVANTE, JOURNEY FOCUS AND STRENGHS BASED
 * MCKINSEY VISION ON LEARNING FOR THE 21ST CENTURY
 * 21st learning is CONNECTED
- ... IS ALSO BOUDLESS AND SOCIAL
+ ... IS ALSO BOUNDLESS AND SOCIAL
 * **Individuals become lifelong learners**
 * Mindset of lifelong learners: Free assessmet - www.reachyourpotential.org
 * Age and mental complexity
