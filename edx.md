@@ -249,8 +249,36 @@ Models of using the platform
 
 []
 
+## Day 3: Breakout session 6 - Theming edX
+
+* Branding: Use logo, color palette, make it similar to corporate site
+* Add terms of service
+* Add copyright notes 
+
+* Functional changes
+* Custom links to header and footer
+* SSO
+* Responsive (not perfect - to be tested)
+* Forking: edx repository on github: (DO NOT USE)
+* edX Stanford Theming (available on github): Not support for Studio (DO NOT USE)
+* Microsite Theming (DO NOT USE)
+* **COMPREHENSIVE THEMING** https://github.com/edx/edx-platform/tree/master/themes
+
+Comprehensive Theming lets you customize the appearance of your Open edX installation. You can override Sass and CSS settings, images, or entire HTML templates.
+
+* **Best Practices**
+* Keep themes small
+* prefer CSS changes over templates overrides, but keep css small
+* Override existing SASS variables if possible
+
+#### RESUMO
+
+Aparentemente as possibilidade de construir uma experiencia altamente customizada no edX LMS é ainda muito limitada. Avaliar com muita atenção os prós e contras.
 
 
+
+
+ 
 
 
 
