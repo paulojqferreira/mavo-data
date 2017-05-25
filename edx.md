@@ -147,7 +147,7 @@ URL: http://examity.com/
 Distance learning in Europe reach moren than 3 million students across 25 countries.
 
 
-## Day 3 - Open KeyNote edX - Learn to Loan - McKinsey GLobal
+## Day 3 - Open KeyNote edX - Learn to Lose - McKinsey GLobal
 
 (e-learning for kids: foundation)
 * Attention curve of students in lectures will decay along the lesson time. Challenge is to keep attention focus
@@ -165,7 +165,27 @@ Auditores ec onsultores
 Retail
 .... (ver imagem)
 * 60% of all the ocupation could see 30% or more of their activities automated (2016) McKinsey Report - **SCARY**
-*
+* Importent Competency is CREATIVITY: Companies need people that inovate, that think about new business model, new produts, new solutions, new design: Eduate people in ideazion. Digital literacy
+... 44% of people in EU aged 16-74 had insufficient digital literacy competencies
+* COmo é que trazemos as pessoas dos empregos atuais para os novos em termos de competencias???
+* A CALLTO ACTION: LEARN OR LOSE
+* As empresas necessitam alterar o modo como formam as pessoas. Formação ao longo da vida. PEOPLE BEFORE STRATEGY
+* IT'S ALL ABOUT PEOPLE
+* CORPORATE UNIVERSITIES
+... PERSONALIZED LEARNING: SELF DIRECTED, RELEVANTE, JOURNEY FOCUS AND STRENGHS BASED
+* MCKINSEY VISION ON LEARNING FOR THE 21ST CENTURY
+* 21st learning is CONNECTED
+ ... IS ALSO BOUDLESS AND SOCIAL
+* **Individuals become lifelong learners**
+* Mindset of lifelong learners: Free assessmet - www.reachyourpotential.org
+* Age and mental complexity
+... Mindset 1 : focus on growth, a growth mindset -  People can develop their IQ along their life
+... Mindset2 Become a serial Master
+.. Mindset 3: do thing that you never have done before: get out of the confort zone to develop new skills
+OVERAL: impact on business and society and a sense of personal meaning fulfillment
+... Mindset 4: build your personal brand & network
+... Mindset 5 Own your development journey
+... Mindset 6: **Do what you love**
 
 
 
