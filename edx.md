@@ -147,7 +147,7 @@ URL: http://examity.com/
 Distance learning in Europe reach moren than 3 million students across 25 countries.
 
 
-## Day 3 - Open KeyNote edX - Learn to Lose - McKinsey GLobal
+## Day 3 - Open KeyNote edX - Learn or Lose - McKinsey GLobal
 
 (e-learning for kids: foundation: http://www.elearningforkids.org)
 * Attention curve of students in lectures will decay along the lesson time. Challenge is to keep attention focus
