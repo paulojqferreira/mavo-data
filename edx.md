@@ -307,6 +307,7 @@ Who are your learners?
  * Each subsection can have several units
  * Each unit can have several components
  * The grades are tied to the subsections, not sections
+ * When using Problem COmponents inside Units (quiz, etc), don't create several questions inside the same component. Use one component for each question/problem so we are able to analize the behavior of each response from users. Several problems in the same component are treated as one question, so it's not possible to track each question separately
 
 * On the actual version, in the advanced tab from the Problem Component, de Open access Response (ORA) is the Peer Review Assessment from the list
 
