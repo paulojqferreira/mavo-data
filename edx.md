@@ -303,3 +303,7 @@ Who are your learners?
 .. Sub-sections within sections
   * Units 
     * Components
+ * Each section can have several subunits
+ * Each subsection can have several units
+ * Each unit can have several components
+ * The grades are tied to the subsections, not sections
