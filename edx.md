@@ -273,7 +273,6 @@ Comprehensive Theming lets you customize the appearance of your Open edX install
 
 Aparentemente as possibilidade de construir uma experiencia altamente customizada no edX LMS é ainda muito limitada. Avaliar com muita atenção os prós e contras. 
 []
-
 ## Day 4 - Introduction to edX Studio with Ben Pispoco
 ![edX logo](https://www.edx.org/sites/default/files/mediakit/image/thumb/edx_logo_200x200.png)
 
@@ -281,4 +280,21 @@ edX Mission:
 * Expand access to quality education
 * Improve on-campus instruction
 * Advance teaching and learning research
+
+### Global Audience
+
+Who are your learners?
+
+* Accommodate differences in language, culture, age, prior knowledge and skills and learning styles
+* Meeting individual learning goals successfully
+* creating a sense of community among learners
+
+### Course Critiques
+
+* Is the content presented interleaved learning sequences?
+* DOes the course contain active learning?
+* Are there opportunities for learners to practice
+* Does the course contain example problems with solutions
+* Are there peer learning opportunities in the course?
+
 
