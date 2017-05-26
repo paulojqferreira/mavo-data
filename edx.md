@@ -325,4 +325,6 @@ Who are your learners?
 
 * The staff role is the default role when a user is added to edX Studio
 * Automatic and Manual Cohorts: very usefull for agregate people, like in discussions.  
+* Components could be showed in a cohort based segmentation (showing some video to Verified Certificaton and other for Audit)
+
 
