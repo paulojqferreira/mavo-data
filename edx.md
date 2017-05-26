@@ -297,4 +297,9 @@ Who are your learners?
 * Does the course contain example problems with solutions
 * Are there peer learning opportunities in the course?
 
+### Course Content Struture
 
+* Sections
+.. Sub-sections within sections
+  * Units 
+    * Components
