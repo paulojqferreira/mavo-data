@@ -247,8 +247,6 @@ Models of using the platform
 * Hint and Feedback: Enable learner success; Provide instant feedback...
 * Drag'n Drop v2 (a testar)
 
-[]
-
 ## Day 3: Breakout session 6 - Theming edX
 
 * Branding: Use logo, color palette, make it similar to corporate site
@@ -274,3 +272,13 @@ Comprehensive Theming lets you customize the appearance of your Open edX install
 #### RESUMO
 
 Aparentemente as possibilidade de construir uma experiencia altamente customizada no edX LMS é ainda muito limitada. Avaliar com muita atenção os prós e contras. 
+[]
+
+## Day 4 - Introduction to edX Studio with Ben Pispoco
+![edX logo](https://www.edx.org/sites/default/files/mediakit/image/thumb/edx_logo_200x200.png)
+
+edX Mission:
+* Expand access to quality education
+* Improve on-campus instruction
+* Advance teaching and learning research
+
