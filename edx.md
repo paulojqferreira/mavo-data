@@ -317,4 +317,9 @@ Who are your learners?
 * Video should be specificaly crafted for the edX platform, not re-purposed
 * Do not forget that beside being online you are talking to each student one-to-one
 * Video instructional Designer / Producer is a vital member of a video content for MOOC's
-* 
+
+* Keep video between 3/7 minutes long
+* Find a way to personalized your content to students
+* Use humor on videos
+* He's really talking to me experience on video
+
