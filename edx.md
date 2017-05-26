@@ -310,4 +310,11 @@ Who are your learners?
 
 * On the actual version, in the advanced tab from the Problem Component, de Open access Response (ORA) is the Peer Review Assessment from the list
 
+### edX Good Practices
 
+* videoX: Creating Video for the edX platform
+* Marketing vs Course Content - Ver imagem
+* Video should be specificaly crafted for the edX platform, not re-purposed
+* Do not forget that beside being online you are talking to each student one-to-one
+* Video instructional Designer / Producer is a vital member of a video content for MOOC's
+* 
