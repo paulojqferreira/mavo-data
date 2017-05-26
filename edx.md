@@ -307,3 +307,5 @@ Who are your learners?
  * Each subsection can have several units
  * Each unit can have several components
  * The grades are tied to the subsections, not sections
+
+* On the actual version, in the advanced tab from the Problem Component, de Open access Response (ORA) is the Peer Review Assessment from the list
