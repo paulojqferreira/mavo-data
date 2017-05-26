@@ -323,5 +323,6 @@ Who are your learners?
 * Use humor on videos
 * He's really talking to me experience on video
 
-* The staff role is the default role when a user is add to edX Studio
+* The staff role is the default role when a user is added to edX Studio
+* Automatic and Manual Cohorts: very usefull for agregate people, like in discussions.  
 
