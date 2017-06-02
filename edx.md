@@ -328,4 +328,6 @@ Who are your learners?
 * Automatic and Manual Cohorts: very usefull for agregate people, like in discussions.  
 * Components could be showed in a cohort based segmentation (showing some video to Verified Certificaton and other for Audit)
 
+## Open edX 2017 Presentations
 
+All the videos and slides are [here](https://openedx.atlassian.net/wiki/display/COMM/Open+edX+2017+Presentations?mc_cid=c231e9e688&mc_eid=356e95ccd4)
